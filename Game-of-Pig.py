@@ -56,4 +56,4 @@ while max(players_points) < max_points:
 winner= max(players_points)
 winner_index= players_points.index(winner)
 
-print("Player ", winner_index+1, "is the winner with a score of ", winner )
+print("Player ", winner_index+1, "is the winner with a score of ", winner ) 
